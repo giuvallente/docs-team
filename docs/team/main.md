@@ -6,7 +6,7 @@ A AWS é uma plataforma de computação em nuvem que oferece uma ampla gama de s
 
 Para configurar a AWS, foi criado um usuário com *AdministradorAcess* chamado *platform*.
 
-![](../../img/userAWS.png)
+![](img/userAWS.png)
 
 ## Configuração EKS
 
@@ -14,8 +14,8 @@ O Amazon Elastic Kubernetes Service (EKS) é um serviço gerenciado que facilita
 
 Para isso, criamos um EKS Cluster.
 
-![](../../img/eks.png)
-![](../../img/ec2.png)
+![](img/eks.png)
+![](img/ec2.png)
 
 ## Testes de Carga 
 
