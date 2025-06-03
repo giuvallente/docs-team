@@ -21,7 +21,7 @@ Para isso, criamos um EKS Cluster.
 
 Os testes de carga são uma parte importante do desenvolvimento de software, pois ajudam a garantir que sua aplicação possa lidar com o tráfego esperado. 
 
-<iframe width="100%" height="470" src="https://www.youtube.com/watch?v=j4Ju5vX0feI" allowfullscreen></iframe>
+[Teste de Carga]("https://www.youtube.com/watch?v=j4Ju5vX0feI")
 
 ## CI/CD
 
