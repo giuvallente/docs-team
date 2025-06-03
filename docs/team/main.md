@@ -27,7 +27,7 @@ Os testes de carga são uma parte importante do desenvolvimento de software, poi
 
 A integração contínua (CI) e a entrega contínua (CD) são práticas de desenvolvimento de software que ajudam a garantir que seu código esteja sempre em um estado implantável. Utilizamos o Jenkins para implementá-las. 
 
-![](img/jenkis.png)
+![](img/jenkins.png)
 
 Para isso, foi realizado uma série de etapas para a configuração do Jenkins:
 
