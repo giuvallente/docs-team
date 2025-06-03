@@ -21,11 +21,13 @@ Para isso, criamos um EKS Cluster.
 
 Os testes de carga são uma parte importante do desenvolvimento de software, pois ajudam a garantir que sua aplicação possa lidar com o tráfego esperado. 
 
+<iframe width="100%" height="470" src="https://www.youtube.com/watch?v=j4Ju5vX0feI" allowfullscreen></iframe>
+
 ## CI/CD
 
 A integração contínua (CI) e a entrega contínua (CD) são práticas de desenvolvimento de software que ajudam a garantir que seu código esteja sempre em um estado implantável. Utilizamos o Jenkins para implementá-las. 
 
-
+![](img/jenkis.png)
 
 Para isso, foi realizado uma série de etapas para a configuração do Jenkins:
 
@@ -57,6 +59,8 @@ O código-fonte do arquivo Jekinsfile pode ser visto abaixo:
 ## Análise de Custo
 
 A análise de custos é uma parte importante do desenvolvimento de software, já que ajuda a garantir que o projeto esteja dentro do orçamento.
+
+[Análise de Custo](https://calculator.aws/#/estimate?id=ebffd68db3ee23493c3bcef702142e42c0e0db76)
 
 ## PaaS
 
