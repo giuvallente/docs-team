@@ -15,6 +15,7 @@ O Amazon Elastic Kubernetes Service (EKS) é um serviço gerenciado que facilita
 Para isso, criamos um EKS Cluster.
 
 ![](img/eks.png)
+
 ![](img/ec2.png)
 
 ## Testes de Carga 
